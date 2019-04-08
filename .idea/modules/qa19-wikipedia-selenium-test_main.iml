@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id="wikipedia-selenium-test:main" external.linked.project.path="$MODULE_DIR$/../../wikipedia-selenium-test" external.root.project.path="$MODULE_DIR$/../../wikipedia-selenium-test" external.system.id="GRADLE" external.system.module.group="qa19" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../sandbox-web" rootProjectPath="$MODULE_DIR$/../../sandbox-web" />
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/../../wikipedia-selenium-test/out/production/classes" />
     <exclude-output />

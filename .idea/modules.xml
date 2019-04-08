@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/qa19-wikipedia-selenium-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/qa19-wikipedia-selenium-test_main.iml" group="wikipedia-selenium-test" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/qa19-wikipedia-selenium-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/qa19-wikipedia-selenium-test_test.iml" group="wikipedia-selenium-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox-web.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox-web.iml" group="sandbox-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox-web_main.iml" group="sandbox-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox-web_test.iml" group="sandbox-web" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia-selenium-test.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia-selenium-test.iml" group="wikipedia-selenium-test" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia-selenium-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia-selenium-test_main.iml" group="wikipedia-selenium-test" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia-selenium-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia-selenium-test_test.iml" group="wikipedia-selenium-test" />
