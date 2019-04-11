@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="sandbox-web:main" external.linked.project.path="$MODULE_DIR$/../../sandbox-web" external.root.project.path="$MODULE_DIR$/../../sandbox-web" external.system.id="GRADLE" external.system.module.group="qa19" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
-  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../sandbox-web" rootProjectPath="$MODULE_DIR$/../../sandbox-web" />
+<module external.linked.project.id="wikipedia-selenium-test:test" external.linked.project.path="$MODULE_DIR$/../../wikipedia-selenium-test" external.root.project.path="$MODULE_DIR$/../../wikipedia-selenium-test" external.system.id="GRADLE" external.system.module.group="qa19" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../wikipedia-gradle" rootProjectPath="$MODULE_DIR$/../../wikipedia-gradle" />
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
-    <output url="file://$MODULE_DIR$/../../sandbox-web/out/production/classes" />
+    <output-test url="file://$MODULE_DIR$/../../wikipedia-selenium-test/out/test/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../sandbox-web/src/main">
-      <sourceFolder url="file://$MODULE_DIR$/../../sandbox-web/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../sandbox-web/src/main/resources" type="java-resource" />
+    <content url="file://$MODULE_DIR$/../../wikipedia-selenium-test/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../wikipedia-selenium-test/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../wikipedia-selenium-test/src/test/resources" type="java-test-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="GitHub-NakonechnyiNikita_qa19-wikipedia-selenium-test_main" />
     <orderEntry type="library" name="Gradle: org.testng:testng:6.14.3" level="project" />
     <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-java:3.141.59" level="project" />
     <orderEntry type="library" name="Gradle: com.beust:jcommander:1.72" level="project" />
@@ -34,4 +35,5 @@
     <orderEntry type="library" name="Gradle: com.google.j2objc:j2objc-annotations:1.1" level="project" />
     <orderEntry type="library" name="Gradle: org.codehaus.mojo:animal-sniffer-annotations:1.14" level="project" />
   </component>
+  <component name="TestModuleProperties" production-module="wikipedia-selenium-test_main" />
 </module>

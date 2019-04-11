@@ -2,6 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GitHub-NakonechnyiNikita_qa19-wikipedia-selenium-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GitHub-NakonechnyiNikita_qa19-wikipedia-selenium-test_main.iml" group="wikipedia-selenium-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GitHub-NakonechnyiNikita_qa19-wikipedia-selenium-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GitHub-NakonechnyiNikita_qa19-wikipedia-selenium-test_test.iml" group="wikipedia-selenium-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NakonechnyiNikita_qa19-sandbox-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/NakonechnyiNikita_qa19-sandbox-web_main.iml" group="sandbox-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NakonechnyiNikita_qa19-sandbox-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/NakonechnyiNikita_qa19-sandbox-web_test.iml" group="sandbox-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NakonechnyiNikita_qa19-wikipedia-selenium-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/NakonechnyiNikita_qa19-wikipedia-selenium-test_main.iml" group="wikipedia-selenium-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NakonechnyiNikita_qa19-wikipedia-selenium-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/NakonechnyiNikita_qa19-wikipedia-selenium-test_test.iml" group="wikipedia-selenium-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle.iml" group="gradle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle_main.iml" group="gradle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle_test.iml" group="gradle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qa19-sandbox-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/qa19-sandbox-web_main.iml" group="sandbox-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qa19-sandbox-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/qa19-sandbox-web_test.iml" group="sandbox-web" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/qa19-wikipedia-selenium-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/qa19-wikipedia-selenium-test_main.iml" group="wikipedia-selenium-test" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/qa19-wikipedia-selenium-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/qa19-wikipedia-selenium-test_test.iml" group="wikipedia-selenium-test" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox-web.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox-web.iml" group="sandbox-web" />
