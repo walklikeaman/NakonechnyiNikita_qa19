@@ -2,33 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4be2fcbb-4ad5-4da2-b44e-575ac94d419d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/GitHub-NakonechnyiNikita_qa19-wikipedia-selenium-test_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/GitHub-NakonechnyiNikita_qa19-wikipedia-selenium-test_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/NakonechnyiNikita_qa19-sandbox-web_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/NakonechnyiNikita_qa19-sandbox-web_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/NakonechnyiNikita_qa19-wikipedia-selenium-test_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/NakonechnyiNikita_qa19-wikipedia-selenium-test_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/gradle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/gradle_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/gradle_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/qa19-sandbox-web_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/qa19-sandbox-web_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/qa19.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/qa19_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/qa19_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sandbox-web/src/test/java/OpenEbay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wikipedia-gradle/src/test/java/WikipediaOpenSiteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/trello.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/trello_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/trello_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/wikipedia-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/wikipedia-web_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/wikipedia-web_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trello/src/test/java/TrelloTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wikipedia-web/src/test/java/WikiLoginTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/sandbox-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/sandbox-web.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/sandbox-web_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/sandbox-web_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/sandbox-web_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/sandbox-web_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox-web/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox-web/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-selenium-test/src/test/java/com/qa19/tests/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-selenium-test/src/test/java/com/qa19/tests/FirstTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/wikipedia-selenium-test/.gradle/" />
@@ -43,6 +28,12 @@
     <ignored path="$PROJECT_DIR$/wikipedia-gradle/.gradle/" />
     <ignored path="$PROJECT_DIR$/wikipedia-gradle/build/" />
     <ignored path="$PROJECT_DIR$/wikipedia-gradle/out/" />
+    <ignored path="$PROJECT_DIR$/wikipedia-web/.gradle/" />
+    <ignored path="$PROJECT_DIR$/wikipedia-web/build/" />
+    <ignored path="$PROJECT_DIR$/wikipedia-web/out/" />
+    <ignored path="$PROJECT_DIR$/trello/.gradle/" />
+    <ignored path="$PROJECT_DIR$/trello/build/" />
+    <ignored path="$PROJECT_DIR$/trello/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,10 +50,16 @@
     <projectState path="$PROJECT_DIR$/sandbox-web">
       <ProjectState />
     </projectState>
+    <projectState path="$PROJECT_DIR$/trello">
+      <ProjectState />
+    </projectState>
     <projectState path="$PROJECT_DIR$/wikipedia-gradle">
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/wikipedia-selenium-test">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/wikipedia-web">
       <ProjectState />
     </projectState>
   </component>
@@ -83,15 +80,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wikipedia-gradle/src/test/java/WikipediaOpenSiteTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wikipedia-web/src/test/java/WikiLoginTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <state relative-caret-position="435">
+              <caret line="36" column="5" selection-start-line="9" selection-start-column="3" selection-end-line="36" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#152#153#0" expanded="true" />
-                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#984#985#0" expanded="true" />
+                <element signature="e#1016#1017#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/trello/src/test/java/TrelloTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -120,6 +129,10 @@
         <option value="$PROJECT_DIR$/wikipedia-gradle/build.gradle" />
         <option value="$PROJECT_DIR$/wikipedia-selenium-test/src/test/java/com/qa19/tests/FirstTest.java" />
         <option value="$PROJECT_DIR$/wikipedia-gradle/src/test/java/WikipediaOpenSiteTest.java" />
+        <option value="$PROJECT_DIR$/wikipedia-web/build.gradle" />
+        <option value="$PROJECT_DIR$/wikipedia-web/src/test/java/WikiLoginTest.java" />
+        <option value="$PROJECT_DIR$/trello/build.gradle" />
+        <option value="$PROJECT_DIR$/trello/src/test/java/TrelloTest.java" />
       </list>
     </option>
   </component>
@@ -153,40 +166,18 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="wikipedia-selenium-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sandbox-web" type="9c53a853:ProjectViewModuleGroupNode" />
-            </path>
-            <path>
-              <item name="wikipedia-selenium-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wikipedia-selenium-test" type="9c53a853:ProjectViewModuleGroupNode" />
-            </path>
-            <path>
-              <item name="wikipedia-selenium-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wikipedia-selenium-test" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wikipedia-selenium-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wikipedia-selenium-test" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wikipedia-selenium-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wikipedia-selenium-test" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="wikipedia-web" type="9c53a853:ProjectViewModuleGroupNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -199,7 +190,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -213,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.WikipediaOpenSiteTest">
+  <component name="RunManager" selected="TestNG.TrelloTest.createBoardtest">
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="qa19" />
       <option name="VM_PARAMETERS" />
@@ -261,16 +252,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="qa19-wikipedia-selenium-test_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.qa19.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.qa19.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.qa19.tests.FirstTest" />
+    <configuration name="OpenEbay.openSite" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sandbox-web_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OpenEbay" />
+      <option name="METHOD_NAME" value="openSite" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrelloTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="trello_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TrelloTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -278,17 +275,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstTest.openChromeTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="qa19-wikipedia-selenium-test_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.qa19.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.qa19.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.qa19.tests.FirstTest" />
-      <option name="METHOD_NAME" value="openChromeTest" />
+    <configuration name="TrelloTest.createBoardtest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="trello_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TrelloTest" />
+      <option name="METHOD_NAME" value="createBoardtest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -296,12 +287,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OpenEbay.openSite" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="sandbox-web_test" />
+    <configuration name="WikiLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="wikipedia-web_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="OpenEbay" />
-      <option name="METHOD_NAME" value="openSite" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="MAIN_CLASS_NAME" value="WikiLoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -321,10 +311,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TrelloTest.createBoardtest" />
+        <item itemvalue="TestNG.TrelloTest" />
+        <item itemvalue="TestNG.WikiLoginTest" />
         <item itemvalue="TestNG.WikipediaOpenSiteTest" />
         <item itemvalue="TestNG.OpenEbay.openSite" />
-        <item itemvalue="TestNG.FirstTest" />
-        <item itemvalue="TestNG.FirstTest.openChromeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +337,10 @@
       <workItem from="1554736069615" duration="7136000" />
       <workItem from="1554977472493" duration="438000" />
       <workItem from="1554977934472" duration="803000" />
-      <workItem from="1554978746154" duration="658000" />
+      <workItem from="1554978746154" duration="1500000" />
+      <workItem from="1555266391743" duration="1557000" />
+      <workItem from="1555332122963" duration="5666000" />
+      <workItem from="1555340492317" duration="638000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1554401910505</created>
@@ -369,30 +363,56 @@
       <option name="project" value="LOCAL" />
       <updated>1554737298788</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Wikipedia commit">
+      <created>1554979514477</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554979514477</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FirstTest_openChromeTest - 2019.04.04 at 21h 21m 35s.xml">
-      <configuration name="FirstTest.openChromeTest" configurationId="TestNG" />
+    <history-entry file="TrelloTest - 2019.04.15 at 16h 24m 27s.xml">
+      <configuration name="TrelloTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FirstTest_openChromeTest - 2019.04.04 at 21h 24m 02s.xml">
-      <configuration name="FirstTest.openChromeTest" configurationId="TestNG" />
+    <history-entry file="TrelloTest_createBoardtest - 2019.04.15 at 16h 29m 51s.xml">
+      <configuration name="TrelloTest.createBoardtest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FirstTest - 2019.04.04 at 21h 26m 55s.xml">
-      <configuration name="FirstTest" configurationId="TestNG" />
+    <history-entry file="TrelloTest_createBoardtest - 2019.04.15 at 16h 36m 28s.xml">
+      <configuration name="TrelloTest.createBoardtest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="OpenEbay_openSite - 2019.04.08 at 20h 16m 07s.xml">
-      <configuration name="OpenEbay.openSite" configurationId="TestNG" />
+    <history-entry file="TrelloTest_createBoardtest - 2019.04.15 at 16h 38m 12s.xml">
+      <configuration name="TrelloTest.createBoardtest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TrelloTest_createBoardtest - 2019.04.15 at 16h 39m 52s.xml">
+      <configuration name="TrelloTest.createBoardtest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TrelloTest_createBoardtest - 2019.04.15 at 16h 53m 58s.xml">
+      <configuration name="TrelloTest.createBoardtest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TrelloTest_createBoardtest - 2019.04.15 at 17h 01m 47s.xml">
+      <configuration name="TrelloTest.createBoardtest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TrelloTest_createBoardtest - 2019.04.15 at 17h 03m 37s.xml">
+      <configuration name="TrelloTest.createBoardtest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TrelloTest_createBoardtest - 2019.04.15 at 17h 05m 27s.xml">
+      <configuration name="TrelloTest.createBoardtest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TrelloTest_createBoardtest - 2019.04.15 at 17h 06m 27s.xml">
+      <configuration name="TrelloTest.createBoardtest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16545000" />
+    <option name="totallyTimeSpent" value="25248000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="790" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27825466" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28898427" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -401,7 +421,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295129" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295129" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -443,16 +463,22 @@
     <MESSAGE value="second commit" />
     <MESSAGE value="third commit" />
     <MESSAGE value="4 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="4 commit" />
+    <MESSAGE value="Wikipedia commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wikipedia commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/trello/src/test/java/TrelloTest.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wikipedia-selenium-test/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="67" selection-start-line="14" selection-start-column="4" selection-end-line="15" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gradle/src/test/java/WikipediaOpenSiteTest.java" />
     <entry file="file://$PROJECT_DIR$/wikipedia-gradle/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
@@ -497,14 +523,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wikipedia-selenium-test/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="67" selection-start-line="14" selection-start-column="4" selection-end-line="15" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wikipedia-web/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="15" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trello/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="67" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wikipedia-gradle/src/test/java/WikipediaOpenSiteTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        <state relative-caret-position="195">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wikipedia-web/src/test/java/WikiLoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="36" column="5" selection-start-line="9" selection-start-column="3" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#984#985#0" expanded="true" />
+            <element signature="e#1016#1017#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trello/src/test/java/TrelloTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
