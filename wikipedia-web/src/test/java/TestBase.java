@@ -21,6 +21,14 @@ public class TestBase {
         webDriver.quit();
     }
 
+
+    public void validLogin() {
+        selectLanguage();
+        initLogin();
+        fillLoginForm("Whofarted1904", "Elton1904");
+        confirmLogin();
+    }
+
     public void openURL() {
         webDriver.get("https://www.wikipedia.org");
     }
@@ -52,6 +60,7 @@ public class TestBase {
     public void click(By locator) {
         webDriver.findElement(locator).click();
     }
+
     public void addToFavourites() {
         click(By.id("ca-watch"));
     }
