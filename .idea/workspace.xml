@@ -2,18 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4be2fcbb-4ad5-4da2-b44e-575ac94d419d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/trello.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/trello_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/trello_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/wikipedia-web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/wikipedia-web_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/wikipedia-web_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trello/src/test/java/TrelloTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wikipedia-web/src/test/java/WikiLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Documents-GitHub-NakonechnyiNikita_qa19-wikipedia-selenium-test_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Documents-GitHub-NakonechnyiNikita_qa19-wikipedia-selenium-test_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/GitHub-NakonechnyiNikita_qa19-sandbox-web_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/GitHub-NakonechnyiNikita_qa19-sandbox-web_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/qa19-gradle_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/qa19-gradle_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/qa19-trello_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/qa19-trello_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/qa19-wikipedia-web_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/qa19-wikipedia-web_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trello/src/test/java/BoardCreationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trello/src/test/java/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wikipedia-web/src/test/java/GameOfThrones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wikipedia-web/src/test/java/TestBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/gradle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/gradle.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/trello.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/trello.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/wikipedia-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/wikipedia-web.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trello/src/test/java/TrelloTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web/src/test/java/WikiLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web/src/test/java/WikiLoginTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/wikipedia-selenium-test/.gradle/" />
@@ -83,24 +94,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wikipedia-web/src/test/java/WikiLoginTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="36" column="5" selection-start-line="9" selection-start-column="3" selection-end-line="36" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#984#985#0" expanded="true" />
-                <element signature="e#1016#1017#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wikipedia-web/src/test/java/GameOfThrones.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/trello/src/test/java/TrelloTest.java">
+        <entry file="file://$PROJECT_DIR$/wikipedia-web/src/test/java/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="238">
+              <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1294#1295#0" expanded="true" />
+                <element signature="e#1348#1349#0" expanded="true" />
+                <element signature="e#1386#1387#0" expanded="true" />
+                <element signature="e#1426#1427#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -130,9 +149,13 @@
         <option value="$PROJECT_DIR$/wikipedia-selenium-test/src/test/java/com/qa19/tests/FirstTest.java" />
         <option value="$PROJECT_DIR$/wikipedia-gradle/src/test/java/WikipediaOpenSiteTest.java" />
         <option value="$PROJECT_DIR$/wikipedia-web/build.gradle" />
-        <option value="$PROJECT_DIR$/wikipedia-web/src/test/java/WikiLoginTest.java" />
         <option value="$PROJECT_DIR$/trello/build.gradle" />
         <option value="$PROJECT_DIR$/trello/src/test/java/TrelloTest.java" />
+        <option value="$PROJECT_DIR$/trello/src/test/java/BoardCreationTest.java" />
+        <option value="$PROJECT_DIR$/wikipedia-web/src/test/java/WikiLoginTest.java" />
+        <option value="$PROJECT_DIR$/wikipedia-web/src/test/java/GameOfTheThrones.java" />
+        <option value="$PROJECT_DIR$/wikipedia-web/src/test/java/GameOfThrones.java" />
+        <option value="$PROJECT_DIR$/wikipedia-web/src/test/java/TestBase.java" />
       </list>
     </option>
   </component>
@@ -155,6 +178,74 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wikipedia-selenium-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trello" type="9c53a853:ProjectViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="wikipedia-selenium-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trello" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="trello" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="wikipedia-selenium-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trello" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="trello" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wikipedia-selenium-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trello" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="trello" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="wikipedia-selenium-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trello" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="trello" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wikipedia-selenium-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wikipedia-web" type="9c53a853:ProjectViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="wikipedia-selenium-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wikipedia-web" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="wikipedia-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="wikipedia-selenium-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wikipedia-web" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="wikipedia-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wikipedia-selenium-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wikipedia-web" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="wikipedia-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="wikipedia-selenium-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wikipedia-web" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="wikipedia-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -166,18 +257,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="wikipedia-selenium-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wikipedia-web" type="9c53a853:ProjectViewModuleGroupNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,6 +264,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -204,7 +284,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TrelloTest.createBoardtest">
+  <component name="RunManager" selected="TestNG.GameOfThrones">
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="qa19" />
       <option name="VM_PARAMETERS" />
@@ -252,22 +332,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OpenEbay.openSite" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="sandbox-web_test" />
+    <configuration name="BoardCreationTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qa19-trello_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="OpenEbay" />
-      <option name="METHOD_NAME" value="openSite" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TrelloTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="trello_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TrelloTest" />
+      <option name="MAIN_CLASS_NAME" value="BoardCreationTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -275,11 +343,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrelloTest.createBoardtest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="BoardCreationTest.createBoardTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="trello_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TrelloTest" />
-      <option name="METHOD_NAME" value="createBoardtest" />
+      <option name="MAIN_CLASS_NAME" value="BoardCreationTest" />
+      <option name="METHOD_NAME" value="createBoardTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -287,8 +355,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WikiLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="wikipedia-web_test" />
+    <configuration name="GameOfThrones" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qa19-wikipedia-web_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GameOfThrones" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WikiLoginTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qa19-wikipedia-web_test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="WikiLoginTest" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -298,11 +377,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WikipediaOpenSiteTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="gradle_test" />
+    <configuration name="WikiLoginTest.testLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qa19-wikipedia-web_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WikipediaOpenSiteTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="MAIN_CLASS_NAME" value="WikiLoginTest" />
+      <option name="METHOD_NAME" value="testLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -311,11 +391,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TrelloTest.createBoardtest" />
-        <item itemvalue="TestNG.TrelloTest" />
-        <item itemvalue="TestNG.WikiLoginTest" />
-        <item itemvalue="TestNG.WikipediaOpenSiteTest" />
-        <item itemvalue="TestNG.OpenEbay.openSite" />
+        <item itemvalue="TestNG.GameOfThrones" />
+        <item itemvalue="TestNG.WikiLoginTest.testLogin" />
+        <item itemvalue="TestNG.WikiLoginTest (1)" />
+        <item itemvalue="TestNG.BoardCreationTest (1)" />
+        <item itemvalue="TestNG.BoardCreationTest.createBoardTest" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +420,8 @@
       <workItem from="1554978746154" duration="1500000" />
       <workItem from="1555266391743" duration="1557000" />
       <workItem from="1555332122963" duration="5666000" />
-      <workItem from="1555340492317" duration="638000" />
+      <workItem from="1555340492317" duration="8544000" />
+      <workItem from="1555580499635" duration="7791000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1554401910505</created>
@@ -370,62 +451,79 @@
       <option name="project" value="LOCAL" />
       <updated>1554979514477</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="trello">
+      <created>1555342005327</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1555342005328</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TrelloTest - 2019.04.15 at 16h 24m 27s.xml">
-      <configuration name="TrelloTest" configurationId="TestNG" />
+    <history-entry file="WikiLoginTest_(1) - 2019.04.18 at 13h 47m 53s.xml">
+      <configuration name="WikiLoginTest (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TrelloTest_createBoardtest - 2019.04.15 at 16h 29m 51s.xml">
-      <configuration name="TrelloTest.createBoardtest" configurationId="TestNG" />
+    <history-entry file="WikiLoginTest_(1) - 2019.04.18 at 13h 51m 15s.xml">
+      <configuration name="WikiLoginTest (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TrelloTest_createBoardtest - 2019.04.15 at 16h 36m 28s.xml">
-      <configuration name="TrelloTest.createBoardtest" configurationId="TestNG" />
+    <history-entry file="WikiLoginTest_(1) - 2019.04.18 at 13h 52m 31s.xml">
+      <configuration name="WikiLoginTest (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TrelloTest_createBoardtest - 2019.04.15 at 16h 38m 12s.xml">
-      <configuration name="TrelloTest.createBoardtest" configurationId="TestNG" />
+    <history-entry file="WikiLoginTest_(1) - 2019.04.18 at 13h 53m 34s.xml">
+      <configuration name="WikiLoginTest (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TrelloTest_createBoardtest - 2019.04.15 at 16h 39m 52s.xml">
-      <configuration name="TrelloTest.createBoardtest" configurationId="TestNG" />
+    <history-entry file="WikiLoginTest_(1) - 2019.04.18 at 13h 54m 30s.xml">
+      <configuration name="WikiLoginTest (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TrelloTest_createBoardtest - 2019.04.15 at 16h 53m 58s.xml">
-      <configuration name="TrelloTest.createBoardtest" configurationId="TestNG" />
+    <history-entry file="WikiLoginTest_(1) - 2019.04.18 at 14h 09m 02s.xml">
+      <configuration name="WikiLoginTest (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TrelloTest_createBoardtest - 2019.04.15 at 17h 01m 47s.xml">
-      <configuration name="TrelloTest.createBoardtest" configurationId="TestNG" />
+    <history-entry file="WikiLoginTest_(1) - 2019.04.18 at 14h 09m 51s.xml">
+      <configuration name="WikiLoginTest (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TrelloTest_createBoardtest - 2019.04.15 at 17h 03m 37s.xml">
-      <configuration name="TrelloTest.createBoardtest" configurationId="TestNG" />
+    <history-entry file="WikiLoginTest_(1) - 2019.04.18 at 14h 14m 46s.xml">
+      <configuration name="WikiLoginTest (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TrelloTest_createBoardtest - 2019.04.15 at 17h 05m 27s.xml">
-      <configuration name="TrelloTest.createBoardtest" configurationId="TestNG" />
+    <history-entry file="WikiLoginTest_testLogin - 2019.04.18 at 14h 15m 59s.xml">
+      <configuration name="WikiLoginTest.testLogin" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TrelloTest_createBoardtest - 2019.04.15 at 17h 06m 27s.xml">
-      <configuration name="TrelloTest.createBoardtest" configurationId="TestNG" />
+    <history-entry file="WikiLoginTest_testLogin - 2019.04.18 at 14h 18m 18s.xml">
+      <configuration name="WikiLoginTest.testLogin" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25248000" />
+    <option name="totallyTimeSpent" value="40945000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="790" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28898427" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2932761" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Extract Method" visible="true" weight="0.3295129" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3295129" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295129" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.3295129" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3295129" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
@@ -464,19 +562,8 @@
     <MESSAGE value="third commit" />
     <MESSAGE value="4 commit" />
     <MESSAGE value="Wikipedia commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wikipedia commit" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/trello/src/test/java/TrelloTest.java</url>
-          <line>31</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="trello" />
+    <option name="LAST_COMMIT_MESSAGE" value="trello" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/gradle/src/test/java/WikipediaOpenSiteTest.java" />
@@ -498,18 +585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wikipedia-selenium-test/src/test/java/com/qa19/tests/FirstTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -554,24 +629,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wikipedia-web/src/test/java/WikiLoginTest.java">
+    <entry file="file://$PROJECT_DIR$/wikipedia-selenium-test/src/test/java/com/qa19/tests/FirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="36" column="5" selection-start-line="9" selection-start-column="3" selection-end-line="36" selection-end-column="5" />
+        <state relative-caret-position="165">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#984#985#0" expanded="true" />
-            <element signature="e#1016#1017#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trello/src/test/java/TrelloTest.java">
+    <entry file="file://$PROJECT_DIR$/trello/src/test/java/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="615">
+          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#1145#1146#0" expanded="true" />
+            <element signature="e#1201#1202#0" expanded="true" />
+            <element signature="e#1242#1243#0" expanded="true" />
+            <element signature="e#1298#1299#0" expanded="true" />
+            <element signature="e#1334#1335#0" expanded="true" />
+            <element signature="e#1403#1404#0" expanded="true" />
+            <element signature="e#1587#1588#0" expanded="true" />
+            <element signature="e#1646#1647#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trello/src/test/java/BoardCreationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wikipedia-web/src/test/java/WikiLoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wikipedia-web/src/test/java/GameOfThrones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wikipedia-web/src/test/java/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1294#1295#0" expanded="true" />
+            <element signature="e#1348#1349#0" expanded="true" />
+            <element signature="e#1386#1387#0" expanded="true" />
+            <element signature="e#1426#1427#0" expanded="true" />
           </folding>
         </state>
       </provider>

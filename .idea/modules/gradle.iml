@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id="gradle" external.linked.project.path="$MODULE_DIR$/../../wikipedia-gradle" external.root.project.path="$MODULE_DIR$/../../wikipedia-gradle" external.system.id="GRADLE" external.system.module.group="qa19" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
-  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../wikipedia-gradle" rootProjectPath="$MODULE_DIR$/../../wikipedia-gradle" />
+  <component name="ExternalSystem" externalSystem="GRADLE" externalSystemModuleGroup="qa19" externalSystemModuleVersion="1.0-SNAPSHOT" linkedProjectId="gradle" linkedProjectPath="$MODULE_DIR$/../../wikipedia-gradle" rootProjectPath="$MODULE_DIR$/../../wikipedia-gradle" />
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../wikipedia-gradle">

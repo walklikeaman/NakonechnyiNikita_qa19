@@ -2,6 +2,10 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Documents-GitHub-NakonechnyiNikita_qa19-wikipedia-selenium-test_main" target="1.8" />
+      <module name="Documents-GitHub-NakonechnyiNikita_qa19-wikipedia-selenium-test_test" target="1.8" />
+      <module name="GitHub-NakonechnyiNikita_qa19-sandbox-web_main" target="1.8" />
+      <module name="GitHub-NakonechnyiNikita_qa19-sandbox-web_test" target="1.8" />
       <module name="GitHub-NakonechnyiNikita_qa19-wikipedia-selenium-test_main" target="1.8" />
       <module name="GitHub-NakonechnyiNikita_qa19-wikipedia-selenium-test_test" target="1.8" />
       <module name="gradle_main" target="1.8" />
@@ -10,10 +14,16 @@
       <module name="NakonechnyiNikita_qa19-sandbox-web_test" target="1.8" />
       <module name="NakonechnyiNikita_qa19-wikipedia-selenium-test_main" target="1.8" />
       <module name="NakonechnyiNikita_qa19-wikipedia-selenium-test_test" target="1.8" />
+      <module name="qa19-gradle_main" target="1.8" />
+      <module name="qa19-gradle_test" target="1.8" />
       <module name="qa19-sandbox-web_main" target="1.8" />
       <module name="qa19-sandbox-web_test" target="1.8" />
+      <module name="qa19-trello_main" target="1.8" />
+      <module name="qa19-trello_test" target="1.8" />
       <module name="qa19-wikipedia-selenium-test_main" target="1.8" />
       <module name="qa19-wikipedia-selenium-test_test" target="1.8" />
+      <module name="qa19-wikipedia-web_main" target="1.8" />
+      <module name="qa19-wikipedia-web_test" target="1.8" />
       <module name="qa19_main" target="1.8" />
       <module name="qa19_test" target="1.8" />
       <module name="sandbox-web_main" target="1.8" />
